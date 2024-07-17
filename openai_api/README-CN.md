@@ -58,3 +58,8 @@ jupyter lab
 这将启动Jupyter Lab并在你的默认网络浏览器中打开它。
 
 现在，你已经准备好开始使用OpenAI API进行开发了！
+
+
+###  Homework
+整合 `query_base64_image_description` 函数和 Markdown 格式渲染方法
+https://github.com/chenge8/openai-quickstart/blob/main/openai_api/gpt-4v.ipynb
