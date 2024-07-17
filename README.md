@@ -146,3 +146,9 @@ Django Peng - pjt73651@email.com
 
 项目链接: https://github.com/DjangoPeng/openai-quickstart
 
+
+
+## Homework 
+#### 扩展 Demo：实现生物、计算机和汉语言文学老师 PromptTemplates 及对应 Chains
+https://github.com/chenge8/openai-quickstart/blob/main/langchain/jupyter/chains/router_chain.ipynb
+
